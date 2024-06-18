@@ -1,4 +1,4 @@
-![alt text](images/Pixel Art Editor 18.06.2024 7_49_34.png)
+![alt text](https://github.com/DeBr1x/Number-Classification-AI/blob/main/images/Pixel%20Art%20Editor%2018.06.2024%207_49_34.png)
 
 # Pixel Art Editor with MNIST Digit Prediction
 
