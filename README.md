@@ -1,6 +1,6 @@
 ![alt text](https://github.com/DeBr1x/Number-Classification-AI/blob/main/images/2024-06-18_08-07-33.png)
 
-# Pixel Art Editor with MNIST Digit Prediction
+# Digit Prediction
 
 This project combines a pixel art editor and a digit recognition model trained on the MNIST dataset. Users can draw pixel art and have the model predict the digit they have drawn. The prediction is displayed as a histogram of probabilities for each digit from 0 to 9.
 
