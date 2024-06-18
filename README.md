@@ -1,3 +1,5 @@
+![Preview](images/Pixel Art Editor 18.06.2024 7_49_34.png)
+
 # Pixel Art Editor with MNIST Digit Prediction
 
 This project combines a pixel art editor and a digit recognition model trained on the MNIST dataset. Users can draw pixel art and have the model predict the digit they have drawn. The prediction is displayed as a histogram of probabilities for each digit from 0 to 9.
