@@ -59,8 +59,8 @@ If you need to train the MNIST model from scratch:
 
 ## File Structure
 
-- `pixel_art_editor.py`: Main application code for the pixel art editor and digit prediction.
-- `train_mnist_model.py`: Script to train the MNIST model and save it as `model.h5`.
+- `test_model.py`: Main application code for the pixel art editor and digit prediction.
+- `train_model.py`: Script to train the MNIST model and save it as `model.h5`.
 - `requirements.txt`: List of required Python packages.
 
 ## Contributing
