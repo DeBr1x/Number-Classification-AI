@@ -1,4 +1,4 @@
-![Preview](images/Pixel Art Editor 18.06.2024 7_49_34.png)
+![alt text](http://url/to/img.png)
 
 # Pixel Art Editor with MNIST Digit Prediction
 
