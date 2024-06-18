@@ -54,7 +54,6 @@ If you need to train the MNIST model from scratch:
     - Press `P` to switch to pencil mode.
     - Press `E` to switch to eraser mode.
     - Press `C` to clear the grid.
-    - Press `S` to convert the drawing to grayscale.
 
 3. The histogram on the right side of the window will update every 1.5 seconds with the predicted probabilities for each digit (0-9).
 
