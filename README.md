@@ -57,6 +57,8 @@ If you need to train the MNIST model from scratch:
 
 3. The histogram on the right side of the window will update every 1.5 seconds with the predicted probabilities for each digit (0-9).
 
+![Preview](C:\Users\user\Pictures\Pixel Art Editor 18.06.2024 7_49_34.png)
+
 ## File Structure
 
 - `test_model.py`: Main application code for the pixel art editor and digit prediction.
